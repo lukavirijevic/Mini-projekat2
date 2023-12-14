@@ -1,0 +1,18 @@
+N_h = broj slova u imenu i prezimenu -> (Luka Virijević) 13
+
+Epruvete:
+L = 3
+U = 4
+K = 2
+A = 1
+V = 3
+I = 0 
+R = 0
+I = 0
+J = 1
+E = 2
+V = 3
+I = 0
+Ć = 1
+
+TEMP = N_s * 5 = 13 * 5 = 65
