@@ -16,3 +16,5 @@ I = 0
 Ć = 1
 
 TEMP = N_s * 5 = 13 * 5 = 65
+
+Temperaturni senzor: LM50
